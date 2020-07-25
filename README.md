@@ -1,5 +1,5 @@
-### Hi, I am Sarvesh 😄
--  Computer Engineering student.
+# Hi, I am Sarvesh 😄
+I'm a Computer Engineering student.
 -  Linux and Operating Systems are favorite.
 -  Plays(Do experiments) with my Laptop sometimes.
 -  Interested in learning Data Science and Software Development.
