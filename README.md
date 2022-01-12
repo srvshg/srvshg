@@ -7,7 +7,7 @@ I'm a Computer Engineer
 -  Scripting languages: Python, JavaScript
 -  Databases: MySQL, MongoDB
 -  Tools/libraries/APIs used: Docker, React, REST api, Git, Tensorflow, Flask, AWS, Firebase
--  Concepts learned: Microservices, Fuctional programming, 
+-  Concepts learned: Microservices, Fuctional programming, Web Assembly, Blockchain
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshGulhane&layout=compact" />
 </a>
