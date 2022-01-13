@@ -1,6 +1,11 @@
 # Hi, I am Sarvesh 😄
 
-I'm a Computer Engineer
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sarvesh-gulhane)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SrvshG3)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://sarveshgulhane.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SarveshG3)
+
+## I'm a Computer Engineer
 -  In love with Computer Science
 -  Interested in Linux, Cloud Computing and Software/Web Development
 -  Programming languages: Golang, Rust, Java, C/C++
@@ -8,6 +13,3 @@ I'm a Computer Engineer
 -  Databases: MySQL, MongoDB
 -  Tools/libraries/APIs used: Docker, React, REST api, Git, Tensorflow, Flask, AWS, Firebase
 -  Concepts learned: Microservices, Fuctional programming, Web Assembly, Blockchain
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshGulhane&layout=compact" />
-</a>
