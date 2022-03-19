@@ -8,7 +8,7 @@
 -  In love with Computer Science
 -  Interested in Linux, Cloud Computing and Software/Web Development
 -  Programming languages: Golang, Rust, Java, C/C++
--  Scripting languages: Python, JavaScript
+-  Scripting languages: Python, JavaScript/TypeScript
 -  Databases: MySQL, MongoDB
--  Tools/libraries/APIs used: Docker, React, REST api, Git, Tensorflow, Flask, AWS, Firebase
--  Concepts learned: Microservices, Fuctional programming, Web Assembly, Blockchain
+-  Tools/libraries/APIs used: Docker, Angular, REST api, Git, Tensorflow, Flask, AWS, Firebase
+-  Concepts learned: Cloud, Microservices, Fuctional programming, Web Assembly, Blockchain
