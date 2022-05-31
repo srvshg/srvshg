@@ -12,3 +12,5 @@
 -  Databases: MySQL, MongoDB
 -  Tools/libraries/APIs used: Docker, Angular, REST api, Git, Tensorflow, Flask, AWS, Firebase, Graphql, ExpressJS, gRPC
 -  Concepts learned: Cloud, Microservices, Fuctional programming, Web Assembly, Blockchain
+
+#### Email: SarveshG3@outlook.com
