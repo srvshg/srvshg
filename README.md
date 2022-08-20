@@ -8,4 +8,4 @@
 -  Tools/libraries/APIs used: Docker, Angular, Git, Flask, AWS, Azure, Firebase, Graphql, ExpressJS, gRPC
 -  Concepts learned: Cloud, Microservices, REST api, Fuctional programming
 
-#### Email: sarvesh.gulhane@proton.me
+#### Email: sarvesh.gulhane@outlook.com
