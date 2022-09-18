@@ -2,9 +2,11 @@
 
 ## I'm a Computer Engineer
 
--  Programming languages: Golang, Python, JavaScript/TypeScript, Rust, Julia
+-  Programming languages: Golang, Python, JavaScript/TypeScript, Julia
 -  Databases: MongoDB, PostgreSQL, SQLite
--  Tools/libraries/APIs used: Docker, Angular, Git, Flask, Anvil, AWS, Azure, Firebase, Graphql, ExpressJS, gRPC
--  Concepts learned: Cloud, Microservices, REST api, Fuctional programming
+-  Libraries/Frameworks: Angular, Flask, Anvil, ExpressJS
+-  Tools/APIs: Docker, Git, AWS, Azure, Firebase, Graphql, ExpressJS, RPC, REST api
+
+##### Linux, Cloud, Microservices, Programming, Problem solving
 
 #### Email: sarvesh.gulhane@outlook.com
