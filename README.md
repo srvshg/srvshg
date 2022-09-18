@@ -7,6 +7,6 @@
 -  Libraries/Frameworks: Angular, Flask, Anvil, ExpressJS
 -  Tools/APIs: Docker, Git, AWS, Azure, Firebase, Graphql, ExpressJS, RPC, REST api
 
-##### Linux, Cloud, Microservices, Programming, Problem solving
+#### Linux, Cloud, Microservices, Programming, Problem solving
 
 #### Email: sarvesh.gulhane@outlook.com
