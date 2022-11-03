@@ -2,11 +2,11 @@
 
 ## I'm a Computer Engineer
 
--  Programming languages: Golang, Python, JavaScript/TypeScript, Rust
+-  Programming languages: Golang, Python, Julia, TypeScript, Rust
 -  Databases: MongoDB, PostgreSQL, SQLite, Neo4J
 -  Libraries/Frameworks: Angular, Flask, Anvil, ExpressJS
 -  Tools/APIs: Docker, Git, AWS, Azure, Firebase, Graphql, ExpressJS, RPC, REST api
 
-#### Linux, Cloud, Microservices, Programming, Problem solving
+#### Cloud Computing, Data Science, Graphs, Linux, Problem solving
 
-#### Email: sarvesh.gulhane@outlook.com
+#### Email: sarveshg3@outlook.com
