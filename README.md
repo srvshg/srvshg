@@ -2,10 +2,10 @@
 
 ## I'm a Computer Engineer and Always wanted to be a Data Scientist
 
--  Programming languages: Python, Golang, Type/JavaScript, Julia
--  Databases: MongoDB, PostgreSQL, SQLite, Neo4J
--  Libraries/Frameworks: Angular, Flask, Anvil, ExpressJS, FastAPI, ExpressJS, NumPy, Pandas, TensorFlow, sklearn, matplotlib
+-  Languages: Python, Golang, Type/JavaScript, Julia
+-  Databases: PostgreSQL, SQLite, Neo4J, MongoDB
 -  Tools/APIs: Docker, Git/GitHub, AWS, Azure, Firebase, Graphql, RPC, REST api
+-  Libraries/Frameworks: Angular, Flask, Anvil, FastAPI, ExpressJS, NumPy, Pandas, TensorFlow, sklearn, matplotlib
 
 #### Data Science, Cloud Computing, Programming, Databases, Linux
 
