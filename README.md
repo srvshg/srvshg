@@ -9,4 +9,3 @@
 
 #### Data Science, Cloud Computing, Programming
 
-#### Email: sarvesh.gulhane@outlook.com
