@@ -1,4 +1,4 @@
 # Hi, I am Sarvesh 😄
 
-## Computer Engineer, Data Scientist, and AI Developer
+## Data Scientist, and AI/ML Engineer
 
